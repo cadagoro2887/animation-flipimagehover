@@ -83,3 +83,17 @@ body {
   transition-delay: 0.2s;
   color: #333;
 }
+
+/* @media only screen and (max-width: 768px) {
+  .container .box:focus .imgBx {
+    transform: rotateX(-90deg);
+    opacity: 0;
+    transition-delay: 0.2s;
+  }
+  .container .box:focus .contentBx {
+    transform: rotateX(0deg);
+    opacity: 1;
+    transition-delay: 0.2s;
+    color: #333;
+  }
+} */
